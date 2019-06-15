@@ -1,0 +1,6 @@
+Main
+.vscode
+*.hi
+Basico/*.hi
+*.o
+Basico/*.o
